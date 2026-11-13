@@ -2,8 +2,8 @@
 
 A Spring Boot REST application that assigns delivery orders to a fleet of vehicles. It respects vehicle capacity, assigns HIGH priority orders first, and keeps total travel distance low. Distances are calculated with the Haversine formula.
 
-- **Live URL:** ``
-- **Swagger UI:** ``
+- **Live URL:** `https://dispatch-load-balancer-production.up.railway.app/api/dispatch/plan`
+- **Swagger UI:** `https://dispatch-load-balancer-production.up.railway.app/swagger-ui/index.html`
 
 ## Tech stack
 
